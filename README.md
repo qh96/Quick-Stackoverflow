@@ -2,4 +2,4 @@
 
 A chrome extension for quick stackoverflow searching
 
-(assets/screenshot.gif)
+![screenshot.gif](assets/screenshot.gif)
