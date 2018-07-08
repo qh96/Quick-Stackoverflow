@@ -9,11 +9,11 @@
     "activeTab"
   ],
   "icons":{
-        "16": "src/icon16.png",
-        "48": "src/icon48.png"
+        "16": "assets/icon16.png",
+        "48": "assets/icon48.png"
     },
   "browser_action": {
-    "default_icon": "src/icon16.png",
+    "default_icon": "assets/icon16.png",
     "default_popup": "index.html"
   }
 }
