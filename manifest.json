@@ -1,0 +1,19 @@
+{
+  "name": "quick-stackoverflow",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "A chrome extension for quick stackoverflow searching",
+  "homepage_url": "https://github.com/qh96/Quick-Stackoverflow",
+  "author": "Howard Qin",
+  "permissions": [
+    "activeTab"
+  ],
+  "icons":{
+        "16": "./icon16.png",
+        "48": "./icon48.png"
+    },
+  "browser_action": {
+    "default_icon": "./icon16.png",
+    "default_popup": "index.html"
+  }
+}
